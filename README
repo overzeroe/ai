@@ -1,0 +1,6 @@
+Artificial intelligence.
+
+Directories:
+  - class/ contains assignments from my silly little AI class
+  - dropzap/ contains a Python script AI to play the game DropZap (http://dropzap.appspot.com)
+  - lib/ contains libraries used by other directories.
